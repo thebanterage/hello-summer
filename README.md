@@ -97,7 +97,7 @@ You need to enable it (it's disabled by default), and then you can view the webs
     3. Scroll down to "GitHub Pages".
     4. Select "master" as the "Source".
     5. Click "Save".
-3. Visit https://your-username.github.io/hello-summer (make sure to replace your-username with your
+3. Visit https://thebanterage.github.io/hello-summer (make sure to replace your-username with your
    actual username).
 
 ## Additional links
